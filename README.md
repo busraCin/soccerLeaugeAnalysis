@@ -1,3 +1,3 @@
 # soccerLeaugeAnalysis pandas exercise
-Written in jupyter notebook
-i got the dataset from kaggle
+I wrote in jupyter notebook
+I got the dataset from kaggle
